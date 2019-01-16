@@ -1,2 +1,2 @@
-# Python Lecture Jenny
+# Python Lecture Editored by Ron
 
