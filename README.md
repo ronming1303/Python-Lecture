@@ -1,2 +1,2 @@
-# Python Lecture Editored by Ron
+# Python Lecture Edited by Ron
 
