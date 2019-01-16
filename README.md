@@ -1,2 +1,2 @@
-# Python-Lecture
-小巢的python-lec
+# Python Lecture Jenny
+
